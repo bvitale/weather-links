@@ -1,4 +1,4 @@
-# weather-links]
+# weather-links
 
 ## Forecast Discussions
 
@@ -14,3 +14,4 @@
 
 * [Pivotal Weather - ECMWF Precipitation Type, Rate, MSLP](https://www.pivotalweather.com/model.php?m=ecmwf_full&p=prateptype_cat_ecmwf&fh=loop&r=conus&dpdt=&mc=)
 * [Pivotal Weather - ECMWF Total Accumulated Snowfall](https://www.pivotalweather.com/model.php?fh=loop&dpdt=&mc=&r=us_ne&p=sn10_acc&m=ecmwf_full)
+* [Pivotal Weather - ECMWF 2m Temperature Anomaly](https://www.pivotalweather.com/model.php?fh=loop&dpdt=&mc=&r=us_ne&p=sfct_anom&m=ecmwf_full)
