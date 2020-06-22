@@ -21,3 +21,8 @@
 ## Satellite
 
 * [College of DuPage: GOES-East - Vermont](https://weather.cod.edu/satrad/?parms=local-Vermont-truecolor-48-1-100-1&checked=map&colorbar=undefined)
+
+## Weather Stations
+
+* [MPV ASOS](https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS)
+* [SLK ASOS](https://mesonet.agron.iastate.edu/sites/site.php?station=SLK&network=NY_ASOS)
