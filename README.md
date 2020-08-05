@@ -22,7 +22,8 @@
 
 * [College of DuPage: GOES-East - Vermont](https://weather.cod.edu/satrad/?parms=local-Vermont-truecolor-48-1-100-1&checked=map&colorbar=undefined)
 
-## Weather Stations
+## Current Surface Observations
 
 * [MPV ASOS](https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS)
 * [SLK ASOS](https://mesonet.agron.iastate.edu/sites/site.php?station=SLK&network=NY_ASOS)
+* [BTV Current Observations (List)](https://www.weather.gov/btv/observations)
