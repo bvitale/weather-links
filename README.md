@@ -26,4 +26,5 @@
 
 * [MPV ASOS](https://mesonet.agron.iastate.edu/sites/site.php?station=MPV&network=VT_ASOS)
 * [SLK ASOS](https://mesonet.agron.iastate.edu/sites/site.php?station=SLK&network=NY_ASOS)
+* [ESCM1 MAWS](https://mesonet.agron.iastate.edu/sites/current.php?station=ESCM1&network=ME_DCP)
 * [BTV Current Observations (List)](https://www.weather.gov/btv/observations)
