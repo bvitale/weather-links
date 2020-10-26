@@ -11,6 +11,7 @@
 * [SRCC Climate Perspectives - Northeast](https://sercc.com/perspectivesmap?region=nrcc)
 * [MRCC Accumulated Winter Season Severity Index (AWSSI)](https://mrcc.illinois.edu/research/awssi/indexAwssi.jsp)
 * [IEM Climodat Reports - VT Long Term Climate Sites](https://mesonet.agron.iastate.edu/climodat/?network=VTCLIMATE)
+* [CoolWx Unofficial Records](http://coolwx.com/record)
 
 ## Maps
 
